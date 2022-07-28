@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "strictNullChecks": true,
+        "target": "ES5",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "skipLibCheck": true,
+        "types": [
+            "node"
+        ],
+        "lib": [
+            "ES2015",
+            "DOM"
+        ]
+    }
+}
