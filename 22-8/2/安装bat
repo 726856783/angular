@@ -1,0 +1,11 @@
+node -v
+
+npm -v
+
+npm get registry
+
+npm ls -g typescript
+
+tsc hello-world.ts
+
+node hello-world.js
